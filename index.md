@@ -1,2 +1,2 @@
 ## games
-- [rogue](/rogue)
+- [rogue](/rogue) - small tile based game, build with dome.
