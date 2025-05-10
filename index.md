@@ -1,4 +1,4 @@
-## my games
+## games
 
 - [rogue](/rogue)
 - [another](/)
