@@ -1,4 +1,1 @@
-## games
-
 - [rogue](/rogue)
-- [another](/)
