@@ -1,1 +1,1 @@
-- [rogue](/rogue) - a small tile based game, built with dome.
+- [rogue](/rogue)|[github](https://github.com/latenitecali/dome_rogue) - a small tile based game, built with dome.
